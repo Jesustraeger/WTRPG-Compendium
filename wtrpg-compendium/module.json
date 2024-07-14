@@ -2,6 +2,9 @@
   "id": "wtrpg-compendium",
   "title": "WTRPG - Compendium",
   "version": "1.0.0",
+  "url": "https://github.com/Jesustraeger/WTRPG-Compendium",
+  "manifest": "https://github.com/Jesustraeger/WTRPG-Compendium/blob/main/wtrpg-compendium/module.json",
+  "download": "https://github.com/Jesustraeger/WTRPG-Compendium/blob/main/wtrpg-compendium/module.json"
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -112,7 +115,4 @@
       "system": "TheWitcherTRPG"
     }
   ],
-  "url": "https://github.com/Jesustraeger/WTRPG-Compendium",
-  "manifest": "https://github.com/Jesustraeger/WTRPG-Compendium/blob/main/wtrpg-compendium/module.json",
-  "download": "DOWNLOAD"
 }
