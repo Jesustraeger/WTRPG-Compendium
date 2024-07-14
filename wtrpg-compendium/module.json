@@ -113,4 +113,6 @@
     }
   ],
   "url": "https://github.com/Siryphas/Witcher-Compendium"
+  "manifest": "https://github.com/Jesustraeger/WTRPG-Compendium/edit/main/wtrpg-compendium/module.json",
+  "download": "DOWNLOAD"
 }
