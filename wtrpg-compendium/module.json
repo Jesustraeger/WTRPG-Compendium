@@ -112,7 +112,7 @@
       "system": "TheWitcherTRPG"
     }
   ],
-  "url": "https://github.com/Jesustraeger/WTRPG-Compendium"
-  "manifest": "https://github.com/Jesustraeger/WTRPG-Compendium/edit/main/wtrpg-compendium/module.json",
+  "url": "https://github.com/Schotbruchschorsch/Witcher-TRPG-Compendiums-for-Foundry-VTT",
+  "manifest": "https://github.com/Schotbruchschorsch/Foundry-Witcher-Magic/releases/latest/download/module.json",
   "download": "DOWNLOAD"
 }
