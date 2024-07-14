@@ -113,6 +113,6 @@
     }
   ],
   "url": "https://github.com/Jesustraeger/WTRPG-Compendium",
-  "manifest": "https://github.com/Schotbruchschorsch/Foundry-Witcher-Magic/releases/latest/download/module.json",
+  "manifest": "https://github.com/Jesustraeger/WTRPG-Compendium/blob/main/wtrpg-compendium/module.json",
   "download": "DOWNLOAD"
 }
